@@ -22,7 +22,6 @@ export class FormClienteComponent implements OnInit {
   //Metodo que se carga al llamar al compnente
   ngOnInit(): void {
     this.cargar();
-
   }
 
   cargar(): void{
